@@ -1,2 +1,1 @@
 # BackgroundGradientGenerator
-# BackgroundGradientGenerator
